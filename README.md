@@ -3,6 +3,9 @@ Collection of math experiments
 
 ### Experiments
 
+- Bezier 
+- Isometric
+
 ### Inspiration
 
 - [Flash Math Creativity](https://www.amazon.com/Flash-Math-Creativity-Keith-Peters/dp/1590594290)
