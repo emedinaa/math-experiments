@@ -1,4 +1,4 @@
-# math-experiments
+# Math-experiments
 Collection of math experiments
 
 ### Experiments
