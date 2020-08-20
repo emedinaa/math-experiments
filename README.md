@@ -6,6 +6,7 @@ Collection of math experiments
 - Bezier 
 - Isometric
 
+![](files/bezier.gif)
 ### Inspiration
 
 - [Flash Math Creativity](https://www.amazon.com/Flash-Math-Creativity-Keith-Peters/dp/1590594290)
@@ -16,6 +17,7 @@ Collection of math experiments
 
 - [Custom drawing](https://developer.android.com/training/custom-views/custom-drawing)
 - [Canvas](https://developer.android.com/reference/android/graphics/Canvas)
+- [Respond to touch events](https://developer.android.com/training/graphics/opengl/touch)
 
 ## Contributing and reporting issues
 
