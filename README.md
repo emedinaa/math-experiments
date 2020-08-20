@@ -6,7 +6,9 @@ Collection of math experiments
 - Bezier 
 - Isometric
 
-![](files/bezier.gif)
+<img src="files/bezier_smile.gif" width="300"/> <img src="files/bezier.gif" width="300"/>
+<img src="files/cone.gif" width="300"/> <img src="files/sphere.gif" width="300"/>
+
 ### Inspiration
 
 - [Flash Math Creativity](https://www.amazon.com/Flash-Math-Creativity-Keith-Peters/dp/1590594290)
